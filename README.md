@@ -11,3 +11,7 @@ Vecka 4
 * Lära mig om pug.
 * Skriva index sidan i pug.
 * Använda bootstrap.
+
+Vecka 5
+* Fortsätta skriva index sidan.
+* Styla för mobil.
