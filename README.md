@@ -21,3 +21,9 @@ Vecka 6
 * Lägga till de sista textblocken på index sidan.
 * Fixa sidan för desktop.
 
+
+Utv
+
+Vecka 6
+dag 1  
+* påbörjade med att fixa desktop versionen.
