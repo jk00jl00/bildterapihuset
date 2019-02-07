@@ -27,3 +27,5 @@ Utv
 Vecka 6
 dag 1  
 * påbörjade med att fixa desktop versionen.
+* Bytte till SASS och jobbade lite med index sidan.
+* Jobbade för lite och blev inte klar med det som var planerat.
