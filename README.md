@@ -29,3 +29,12 @@ dag 1
 * påbörjade med att fixa desktop versionen.
 * Bytte till SASS och jobbade lite med index sidan.
 * Jobbade för lite och blev inte klar med det som var planerat.
+
+vecka 8
+* Ändra från vit bakgrund med border till en vitaktig med genomskilning
+* Dela upp vilka är vi
+* Flytta logga åt vänster och bokstavsmellanrum
+* Vänsterställ all text
+* Fixa titeln så den blir bättre på vad är bildterapi
+* Använd färger 
+* Hitta font
